@@ -1,0 +1,7 @@
+.terraform
+aws_provider.tf
+
+.idea
+terraform.tfstate
+terraform.tfstate.backup
+
